@@ -1,9 +1,9 @@
 # Global-Disaster-Tracker**
 
-Description:**
+**Description:**
 A Python Streamlit app that tracks global earthquakes, displays the top 5 strongest, and visualizes magnitudes with interactive charts.
 
-Features
+**Features**
 
 Fetches live earthquake data from USGS Earthquake API.
 
@@ -17,7 +17,7 @@ Fully interactive dashboard built with Streamlit.
 
 Shortens long location names and rotates x-axis labels for readability.
 
-- Technologies & Concepts Used**
+- **Technologies & Concepts Used**
 
 Python – core language
 
