@@ -1,4 +1,4 @@
-# Global-Disaster-Tracker**
+# Global-Disaster-Tracker
 
 **Description:**
 A Python Streamlit app that tracks global earthquakes, displays the top 5 strongest, and visualizes magnitudes with interactive charts.
